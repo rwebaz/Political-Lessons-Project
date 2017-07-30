@@ -5,18 +5,26 @@ navigation_weight: 9
 ---
 # A Far Better Deal
 
-The United States Federal Government spends enough money on interest payments to foreign governments to fund a $500 million National Lottery each and every day of the year.
+The United States Federal Government spends enough money on interest payments to foreign governments each and every day of the year to fund a $500 million National Lottery each and every day of the year!
 
 ## Table O Contents
+
+***
 
 - TOC
 {:toc}
 
-## The People's Platform v The Better Deal
+## The People's Platform Plus The Better Deal
 
-1.) Access to medical care for all
+Taking the best aspects of both platforms
+
+***
+
+### Access to medical care for all
 
 - Healthcare makes up approx. 1/5th of our entire $20 Trillion USD economy
+
+### Medicare Expansion
 
 - Some states did NOT participate in the original Medicare expansion offered by then President O'bama.
 
@@ -28,55 +36,37 @@ The United States Federal Government spends enough money on interest payments to
 
 - Which Governor Jan countered with an "Executive Tax" on hospital emergency rooms
 
-2.) Medicare
+### Medicaid
 
-3.) Medicaid
+### Social Security
 
-4.) Social Security
+### Dentistry
 
-5.) Dentistry
+## Better Jobs
 
-=======================
+We owe our highly skilled labor force more benefits
 
-Better Jobs
+***
 
-=======================
+### Infrastructure Spending
 
-Better Wages
+- $1 Trillion ( that's 1,000 billion ) USD
 
-=======================
+- Start immediately on the top 10% of most likely to fail bridges, roads, canals, dams, and waterways
 
-Better Future
+- Funded by premium, non-callable, 30 year tax-free GO's with a silver sinking fund
 
-=======================
+- 1,000 billion X 1/30th = $33 billion / $15 per ounce = 2 billion ounces annually
 
-Retroactive Tuition Reimbursement
+- 5 cent per gallon gasoline tax + 1 cent per kilowatt hour electric tax
 
-1.) Retire pools of student loans ( and, by extension ... their derivatives) when "super default" thresholds are met
+- Natural gas = EXEMPT
 
-2.) Offer dollar for dollar tax credits annually for workers who pay down their student loans
+- 2018 + 30 = 2048
 
-3.) Reduce interest rates on student loans back to 3%
+- $1,000 billion X 1% coupon = $500 million semi-annual interest payments
 
-- College For All Act
-
-=======================
-
-Minimum Wage - Financial Transaction Tax
-
-1.) Raise all minimum wage standards to $9 per hour, including employees who are lucky enough to be engaged in the process of collecting tips from customers
-
-2.) Fund it with a Financial Transaction Tax (FTT), commonly known as the "risk" or "speculation" tax
-
-- At the time of purchase, if the expected Net Present Value (NPV) exceeds the "cost of capital"
-
-- At the time of sale, extracted from the "gross proceeds of sale" if a gain ( capital gains tax )
-
-- Tax On Wall Street Act
-
-=======================
-
-Empowering Workers
+### Empowering Workers
 
 - Collective Bargaining
 
@@ -96,35 +86,71 @@ Empowering Workers
 
 - corporate outsourcing
 
-- monoploy
+- monopoly
 
 - anti-trust
 
 - Automatic Voter Registration ( Early Voting Ballots )
 
-=======================
+## Better Wages
 
-Private Prisons
+We owe our two classes of working poor a higher minimum wage
+
+***
+
+### Minimum Wage - Financial Transaction Tax
+
+- Raise all minimum wage standards to $9 per hour, including employees who are lucky enough to be engaged in the process of collecting tips from customers
+
+- Fund it with a Financial Transaction Tax (FTT), commonly known as the "risk" or "speculation" tax
+
+- At the time of purchase, if the expected Net Present Value (NPV) exceeds the "cost of capital"
+
+- At the time of sale, extracted from the "gross proceeds of sale" if a gain ( capital gains tax )
+
+- Tax On Wall Street Act
+
+### Employer Tax Breaks To Train Workers
+
+- An oxymoron
+
+## Better Future
+
+***
+
+We owe a better future to our current and future generations by reducing our $20 Trillion USD debt portfolio today.
+
+### Hillary's Los Deplorables
+
+- Apologize for her huge gaff in judgment
+
+- But, the fact remains ...
+
+- The Rules of The Global Economy Are Rigged Against ALL Americans
+
+- Work with your representatives and senators to balance the response necessary to combat this plague upon us all
+
+### Retroactive Tuition Reimbursement
+
+- Retire pools of student loans ( and, by extension ... their derivatives) when "super default" thresholds are met
+
+- Offer dollar for dollar tax credits annually for workers who pay down their student loans
+
+- Reduce interest rates on student loans back to 3%
+
+- College For All Act
+
+### Private Prisons
 
 - The Justice Is Not For Sale Act
 
-=======================
-
-Private Abortion Clinics
+### Private Abortion Clinics
 
 - Protection of Equal Access To Abortion Facilities
 
 - The Each Woman Act
 
-=======================
-
-Employer Tax Breaks To Train Workers
-
-- An oxymoron
-
-=======================
-
-Trust Busters Needed
+### Trust Busters Needed
 
 - food
 
@@ -136,7 +162,7 @@ Trust Busters Needed
 
 - eyeglasses
 
-- Our Revolution ( Bernie Sanders/Elizabeth Warren )
+### Our Revolution ( Bernie Sanders/Elizabeth Warren )
 
 - National Nurses Union
 
@@ -144,37 +170,7 @@ Trust Busters Needed
 
 - People's Action
 
-=======================
-
-Los Deplorables ( you all GOP's )
-
-- The Rules of The Global Economy Are Rigged Against ALL Americans
-
-- I will work with your representatives and senators to balance the response necessary to combat this plague upon us all
-
-=======================
-
-Infrastructure Spending
-
-- $1 Trillion ( that's 1,000 billion ) USD
-
-- Start immediately on the top 10% of most likely to fail bridges, roads, canals, dams, and waterways
-
-- Funded by premium, non-callable, 30 year tax-free GO's with a silver sinking fund
-
-- 1,000 billion X 1/30th = $33 billion / $15 per ounce = 2 billion ounces annually
-
-- 5 cent per gallon gasoline tax + 1 cent per kilowatt hour electric tax
-
-- Natural gas = EXEMPT
-
-- 2018 + 30 = 2048
-
-- $1,000 billion X 1% coupon = $500 million semi-annual interest payments
-
-=======================
-
-Federal Deficit Reduction
+### Federal Deficit Reduction
 
 - $20 Trillion ( 20,000 billion ) USD
 
@@ -182,20 +178,6 @@ Federal Deficit Reduction
 
 - to Communist China
 
-=======================
-
-Source: Democrats Are Waking Up by Robert Borosage https://www.thenation.com
-
-=======================
-
 ***
 
-**Source**: [Instructional Jekyll Tips n Vids by Cloud Cannon](https://learn.cloudcannon.com/){:target="_blank"}
-
-
-
-
-
-
-
-
+**Source**: [Democrats Are Waking Up by Robert Borosage](https://www.thenation.com/){:target="_blank"}

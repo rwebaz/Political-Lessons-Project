@@ -1,3 +1,3 @@
 # Political Lessons Project
 
-A Git Hub repo of Political Lessons
+A GitHub repo of Political lessons that emphasize both the GFM and Kramdown engines
