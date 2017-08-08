@@ -14,7 +14,7 @@ navigation_weight: 9
 
 ## Directive
 
-- To: USA Rep Ben Ray Luján, Dem NM, Dist 00, At Large
+- To: [United States Rep. Ben Ray Luján, ( DEM - New Mexico ), Dist 03](https://lujan.house.gov/email-me/){:target="_blank"}
 
 - RE: Democratic Congressional Campaign Committee ( DCCC ) Chairperson Endorsement
 
