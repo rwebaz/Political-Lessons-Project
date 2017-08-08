@@ -16,17 +16,17 @@ navigation_weight: 9
 
 If you need to register to vote in the August #2018 primary election for Governor of Arizona, then please visit the following website.
 
-### The Code: Service Arizona dot gov
+### The Code: Service Arizona dot com
 
 ```liquid
 {% raw %}
-[Service Arizona dot gov](https://www.servicearizona.gov){:target="_blank"}
+[Service Arizona dot com](https://www.servicearizona.com){:target="_blank"}
 {% endraw %}
 ```
 
-### Live Link: Service Arizona dot gov
+### Live Link: Service Arizona dot com
 
-[Service Arizona dot gov](https://www.servicearizona.gov){:target="_blank"}
+[Service Arizona dot com](https://www.servicearizona.com){:target="_blank"}
 
 ## Voter Authentication
 
@@ -167,14 +167,6 @@ Robert
 ## Claim
 
 I, the undersigned, a qualified elector of the county of Maricopa, the State of Arizona, and of the State of Arizona and a member of the **Democratic Party** or a person who is registered as **No Party** preference or **Independent** as the party preference or *who is registered with a political party that is not qualified for representation on the ballot*, hereby nominate **Robert Weber** who resides at **2609 W Southern Ave Lot 259 Tempe AZ 85282** in the county of Maricopa for the party nomination for the office of Governor to be voted at the primary election to be held 8/28/2018 as representing the principles of such party, and I hereby declare that I am qualified to vote for this office and that I have not signed, and will not sign, any nomination petition for more persons than the number of candidates necessary to fill such office at the next ensuing election. I further declare that if I choose to use a post office box address on this petition, my residence address has not changed since I last reported it to the county recorder for purposes of updating my voter registration file.
-
-## Raw Code
-
-```liquid
-{% raw %}
-`...`
-{% endraw %}
-```
 
 ***
 
