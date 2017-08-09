@@ -16,13 +16,37 @@ The United States Federal Government spends enough money on interest payments to
 
 ## The People's Platform Plus The Better Deal
 
-Taking the best aspects of both platforms
+- Taking the best aspects of both platforms
 
-***
+## Voter Suppression
 
-### Access to medical care for all
+- Automatic Voter Registration ( Early Voting Ballots )
 
-- Healthcare makes up approx. 1/5th of our entire $20 Trillion USD economy
+## Infrastructure Spending
+
+- $1 Trillion ( that's 1,000 billion ) USD
+
+- Start immediately on the top 10% of most likely to fail bridges, roads, canals, dams, and waterways
+
+- Funded by premium, non-callable, 30 year tax-free GO's with a silver sinking fund
+
+- 2018 + 30 = 2048
+
+- 1,000 billion X 1/30th = $33 billion / $15 per ounce = 2 billion ounces annually
+
+- 5 cent per gallon gasoline tax + 1 cent per kilowatt hour electric tax
+
+- Natural gas = EXEMPT
+
+- $1 I-11 Corridor Turnpike Fee
+
+- 5% State Income Tax ( flat )
+
+- $1,000 billion X 1% coupon = $500 million semi-annual interest payments
+
+## Health Care
+
+Healthcare makes up approx. 1/5th of our entire $20 Trillion USD economy.
 
 ### Medicare Expansion
 
@@ -38,33 +62,21 @@ Taking the best aspects of both platforms
 
 ### Medicaid
 
+Access to medical care for all is a TOP priority for our society today. How we go about achieving that goal is up to debate, and then action.
+
 ### Social Security
 
+More to come ...
+
 ### Dentistry
+
+- Negotiated vouchers between Baja Norte and Arizona.
+
+- Negotiated vouchers between Sonora and Arizona.
 
 ## Better Jobs
 
 We owe our highly skilled labor force more benefits
-
-***
-
-### Infrastructure Spending
-
-- $1 Trillion ( that's 1,000 billion ) USD
-
-- Start immediately on the top 10% of most likely to fail bridges, roads, canals, dams, and waterways
-
-- Funded by premium, non-callable, 30 year tax-free GO's with a silver sinking fund
-
-- 1,000 billion X 1/30th = $33 billion / $15 per ounce = 2 billion ounces annually
-
-- 5 cent per gallon gasoline tax + 1 cent per kilowatt hour electric tax
-
-- Natural gas = EXEMPT
-
-- 2018 + 30 = 2048
-
-- $1,000 billion X 1% coupon = $500 million semi-annual interest payments
 
 ### Empowering Workers
 
@@ -82,23 +94,17 @@ We owe our highly skilled labor force more benefits
 
 - Wage Theft ( Independent Contractors )
 
-- inhumane scheduling
+- Inhumane Scheduling
 
-- corporate outsourcing
+- Corporate Outsourcing
 
-- monopoly
+## Worker Care
 
-- anti-trust
+We owe our two classes of working poor a higher minimum wage.
 
-- Automatic Voter Registration ( Early Voting Ballots )
+### Better Wages
 
-## Better Wages
-
-We owe our two classes of working poor a higher minimum wage
-
-***
-
-### Minimum Wage - Financial Transaction Tax
+- Minimum Wage - Financial Transaction Tax
 
 - Raise all minimum wage standards to $9 per hour, including employees who are lucky enough to be engaged in the process of collecting tips from customers
 
@@ -114,9 +120,17 @@ We owe our two classes of working poor a higher minimum wage
 
 - An oxymoron
 
-## Better Future
+### Retroactive Tuition Reimbursement
 
-***
+- Retire pools of student loans ( and, by extension ... their derivatives) when "super default" thresholds are met
+
+- Offer dollar for dollar tax credits annually for workers who pay down their student loans
+
+- Reduce interest rates on student loans back to 3%
+
+- College For All Act
+
+## Past Elections
 
 We owe a better future to our current and future generations by reducing our $20 Trillion USD debt portfolio today.
 
@@ -130,27 +144,43 @@ We owe a better future to our current and future generations by reducing our $20
 
 - Work with your representatives and senators to balance the response necessary to combat this plague upon us all
 
-### Retroactive Tuition Reimbursement
+### Federal Deficit Reduction
 
-- Retire pools of student loans ( and, by extension ... their derivatives) when "super default" thresholds are met
+- $20 Trillion ( 20,000 billion ) USD
 
-- Offer dollar for dollar tax credits annually for workers who pay down their student loans
+- Daily Interest on $20 Trillion USD = $500 million
 
-- Reduce interest rates on student loans back to 3%
+- to Communist China
 
-- College For All Act
+## Law and Order
 
-### Private Prisons
+Our **Criminal Justice System** is in dire need of reform.
 
-- The Justice Is Not For Sale Act
+### Prison Reform
+
+The specter of **Private Prisons** is being addressed by the federal **Justice Is Not For Sale Act**.
+
+### Sentencing Reform
+
+More to come ...
+
+### Local Police Force Reform
+
+More to come ...
+
+## Women Care
+
+The protection of equal access to **Abortion Facilities** is a politically charged area of concern.
 
 ### Private Abortion Clinics
 
-- Protection of Equal Access To Abortion Facilities
-
 - The Each Woman Act
 
-### Trust Busters Needed
+## Anti-Trust Reform
+
+Too many oligopolies have formed in the USA counter to prevailing democratic principles.
+
+### Areas of Trust Buster Need
 
 - food
 
@@ -162,6 +192,10 @@ We owe a better future to our current and future generations by reducing our $20
 
 - eyeglasses
 
+## The Rise of Democratic Socialism in America ( again! )
+
+Not since the early 20th century during the time of Teddy "Bull Moose" Roosevelt have we seen such an insurgency in progressive political thinking coupled with the rise of **Democratic Socialism** in America ( again! ).
+
 ### Our Revolution ( Bernie Sanders/Elizabeth Warren )
 
 - National Nurses Union
@@ -169,14 +203,6 @@ We owe a better future to our current and future generations by reducing our $20
 - Fight For 15
 
 - People's Action
-
-### Federal Deficit Reduction
-
-- $20 Trillion ( 20,000 billion ) USD
-
-- Daily Interest on $20 Trillion USD = $500 million
-
-- to Communist China
 
 ***
 
