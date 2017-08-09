@@ -16,6 +16,10 @@ navigation_weight: 9
 
 If you need to register to vote in the August #2018 primary election for Governor of Arizona, then please visit the following website.
 
+### Live Link: Service Arizona dot com
+
+[Service Arizona dot com](https://www.servicearizona.com){:target="_blank"}
+
 ### The Code: Service Arizona dot com
 
 ```liquid
@@ -24,19 +28,13 @@ If you need to register to vote in the August #2018 primary election for Governo
 {% endraw %}
 ```
 
-### Live Link: Service Arizona dot com
-
-[Service Arizona dot com](https://www.servicearizona.com){:target="_blank"}
-
 ## Voter Authentication
 
 Click on any of the following three (3) links to authenticate your voter registration at the office of the Arizona Secretary of State ( Michele Reagan ).
 
-### Main Landing Page
+1. FULL URL: Az Sect O State ( Elections )
 
-Please digitally sign a nomination form for your favorite candidate for Governor of Arizona.
-
-#### FULL URL
+Live Link: [Az Sect O State - Elections](https://apps.azsos.gov/apps/election/eps/petition/VoterPetnAuth.aspx){:target="_blank"}.
 
 The code ...
 
@@ -46,9 +44,9 @@ The code ...
 {% endraw %}
 ```
 
-Live Link: [Az Sect O State - Elections](https://apps.azsos.gov/apps/election/eps/petition/VoterPetnAuth.aspx){:target="_blank"}.
+1. Tiny URL: Az Sect O State ( Elections )
 
-#### Tiny URL
+Live Link: [Az Sect O State - Elections](https://medmj.us/AzEQual){:target="_blank"}.
 
 The code ...
 
@@ -58,9 +56,9 @@ The code ...
 {% endraw %}
 ```
 
-Live Link: [Az Sect O State - Elections](https://medmj.us/AzEQual){:target="_blank"}.
+1. Short URL: Az Sect O State ( Elections )
 
-#### Short URL
+Live Link: [Az Sect O State - Elections](http://apps.azsos.gov/equal/){:target="_blank"}.
 
 The code ...
 
@@ -69,8 +67,6 @@ The code ...
 [Az Sect O State - Elections](http://apps.azsos.gov/equal/){:target="_blank"}.
 {% endraw %}
 ```
-
-Live Link: [Az Sect O State - Elections](http://apps.azsos.gov/equal/){:target="_blank"}.
 
 ## Social Media
 
@@ -122,7 +118,11 @@ Voter Authentication for Governor nominations now Live in Arizona! C=> https://m
 {% endraw %}
 ```
 
-## Sample Letter
+## Sample Letter: Main Landing Page
+
+Please digitally sign a nomination form for your favorite candidate for Governor of Arizona.
+
+***
 
 Hello:
 
