@@ -168,6 +168,20 @@ Robert
 
 I, the undersigned, a qualified elector of the county of Maricopa, the State of Arizona, and of the State of Arizona and a member of the **Democratic Party** or a person who is registered as **No Party** preference or **Independent** as the party preference or *who is registered with a political party that is not qualified for representation on the ballot*, hereby nominate **Robert Weber** who resides at **2609 W Southern Ave Lot 259 Tempe AZ 85282** in the county of Maricopa for the party nomination for the office of Governor to be voted at the primary election to be held 8/28/2018 as representing the principles of such party, and I hereby declare that I am qualified to vote for this office and that I have not signed, and will not sign, any nomination petition for more persons than the number of candidates necessary to fill such office at the next ensuing election. I further declare that if I choose to use a post office box address on this petition, my residence address has not changed since I last reported it to the county recorder for purposes of updating my voter registration file.
 
-***
+### Update To E Qual System Dtd 12-26-2107
+
+Dear Candidates,
+
+E-Qual is temporarily down, but we are working to restore access as quickly as possible. 
+
+During the weekend of December 23rd, Maricopa County made an update to its voter registration system to reflect recently approved precinct boundary lines and precinct name changes, which apparently affected nearly 2.8 million voter records.
+
+This data was only partially successfully transmitted to the Secretary of State’s office by December 26th, causing any processing in the statewide voter registration database to be temporarily suspended and rendering any systems that rely on the statewide database (such as E-Qual) to be temporarily offline.
+
+We are working hard to bring E-Qual back online as rapidly as possible, and we will keep you updated accordingly.
+
+Sincerely,
+
+Arizona Secretary of State’s Office
 
 **Source**: Twitter [@rwebaz](https://www.twitter.com/rwebaz){:target="_blank"}. Published by © 2017 [Mminail.github.io](https://Mminail.github.io){:target="_blank"}.
