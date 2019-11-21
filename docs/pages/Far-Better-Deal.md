@@ -1,20 +1,22 @@
 ---
 title: A Far Better Deal
 layout: default
-navigation_weight: 9
+excerpt: Place the introducing line of text ie.) the 'tagline' here ...
+hint: The United States Federal Government spends enough money on interest payments to foreign governments each and every day of the year to fund a $500 million National Lottery each and every day of the year!
+repo: Political-Lessons-Project
+ver_date: 11-20-19
+navigation_weight: 8
+categories: page
 ---
-# A Far Better Deal
+{% include toc.md %}
 
-The United States Federal Government spends enough money on interest payments to foreign governments each and every day of the year to fund a $500 million National Lottery each and every day of the year!
+## National Lottery
 
-## Table O Contents
+> **Hint**. {{ page.hint }}
 
-***
+More to come ...
 
-- TOC
-{:toc}
-
-## The People's Platform Plus The Better Deal
+### The People's Platform Plus The Better Deal
 
 - Taking the best aspects of both platforms
 
@@ -204,6 +206,16 @@ Not since the early 20th century during the time of Teddy "Bull Moose" Roosevelt
 
 - People's Action
 
+## Last Subtitle
+
+More to come ...
+
 ***
 
-**Source**: [Democrats Are Waking Up by Robert Borosage](https://www.thenation.com/){:target="_blank"}
+**Note**. The above synopsis was derived from an article written by Robert Borosage [[1](#ROBERTBOROSAGE){:.red}].
+
+1. {:#ROBERTBOROSAGE}[Democrats Are Waking Up by Robert Borosage](https://www.thenation.com/){:target="_blank"}
+
+***
+
+{% include patreon-link.md %}
