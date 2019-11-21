@@ -1,16 +1,20 @@
 ---
 title: Vote Dem
 layout: default
-navigation_weight: 9
+excerpt: Place the introducing line of text ie.) the 'tagline' here ...
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Political-Lessons-Project
+ver_date: 11-20-19
+navigation_weight: 8
+categories: page
 ---
-# Vote Dem
+{% include toc.md %}
+
+# #Vote Dem
+
+> **Hint**. {{ page.hint }}
 
 **Clean Election** candidates for the **Arizona Primary Election** to be held in August of #2018 may now collect [$5](http://apps.azsos.gov/equal/){:target="_blank"} **Qualifying Contributions** as of August 1, 2017.
-
-## Table O Contents
-
-- TOC
-{:toc}
 
 ## Directive
 
@@ -130,6 +134,16 @@ As the number of nominations required to make the ballot for Governor has grown 
 {% endraw %}
 ```
 
+## Last Subtitle
+
+More to come ...
+
 ***
 
-**Source**: Twitter [@rwebaz](https://www.twitter.com/rwebaz){:target="_blank"}. Published by © 2017 [Mminail.github.io](https://Mminail.github.io){:target="_blank"}.
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
+
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Visit the pdf source"}{:target="_blank"}
+
+***
+
+{% include patreon-link.md %}

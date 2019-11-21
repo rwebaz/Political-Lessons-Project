@@ -1,18 +1,22 @@
 ---
 title: Az E Qual
 layout: default
-navigation_weight: 9
+excerpt: Place the introducing line of text ie.) the 'tagline' here ...
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Shell-Lessons-Project
+ver_date: 11-20-19
+navigation_weight: 8
+categories: template
 ---
-# Az E Qual
+{% include toc.md %}
+
+## Qualifying Contributions
+
+> **Hint**. {{ page.hint }}
 
 **Clean Election** candidates for the **Arizona Primary Election** to be held in August of #2018 may now collect [$5](http://apps.azsos.gov/equal/){:target="_blank"} **Qualifying Contributions** as of August 1, 2017.
 
-## Table O Contents
-
-- TOC
-{:toc}
-
-## Mid-Term Primary Election August #2018
+### Mid-Term Primary Election August #2018
 
 If you need to register to vote in the August #2018 primary election for Governor of Arizona, then please visit the following website.
 
@@ -184,4 +188,16 @@ Sincerely,
 
 Arizona Secretary of State’s Office
 
-**Source**: Twitter [@rwebaz](https://www.twitter.com/rwebaz){:target="_blank"}. Published by © 2017 [Mminail.github.io](https://Mminail.github.io){:target="_blank"}.
+## Last Subtitle
+
+More to come ...
+
+***
+
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
+
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:target="_blank"}
+
+***
+
+{% include patreon-link.md %}

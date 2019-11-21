@@ -1,37 +1,43 @@
 ---
 title: Source Links
 layout: default
-navigation_weight: 9
+excerpt: Please support the authors and publishers who aggregate the Source Links for the Political Lessons Project ...
+hint: Place the intro paragraph ie.) the 'hypothesis' here ...
+repo: Shell-Lessons-Project
+ver_date: 11-20-19
+navigation_weight: 8
+categories: template
 ---
-# Source Links: Political Lessons Project
+{% include toc.md %}
 
-Please support the authors and publishers who aggregate the Source Links for the Ng Lessons Project.
+## Arizona Primary Election
 
-## Table O Contents
-
-- TOC
-{:toc}
-
-## Arizona Primary Election ( August #2018 )
+Date: August #2018
 
 Each of the following **Link Title** is followed by a short statement of critique, followed by a **Live Link**.
 
 In turn, each of the following **Live Link** is also followed by **The Code** ( Markdown - Liquid ) required to render the hyperlink.
 
-### Clean Election Fund Matching $5 Contribution
+### Clean Election Fund Matching
+
+Amount: $5 Contribution
 
 Thank you for your contribution.
 
-#### Live Link: Clean Election Fund Matching $5 Contribution
+#### Live Link
+
+What? Clean Election Fund Matching $5 Contribution
 
 [Clean Elections Qualifying Contributions](http://apps.azsos.gov/equal/){:target="_blank"}
 
-#### The Code: Clean Election Fund Matching $5 Contribution
+#### The Code
+
+What? Clean Election Fund Matching $5 Contribution
 
 ```liquid
-{% raw %}
+
 [Clean Elections Qualifying Contributions](http://apps.azsos.gov/equal/){:target="_blank"}
-{% endraw %}
+
 ```
 
 ### Service Arizona dot com
@@ -42,7 +48,9 @@ Remember to check the box "Send Me An Early Ballot".
 
 [ServiceArizona.com](https://www.servicearizona.com){:target="_blank"}
 
-#### The Code: ServiceArizona.com
+#### The Code A
+
+What? ServiceArizona.com
 
 ```liquid
 {% raw %}
@@ -58,7 +66,9 @@ As the number of nominations required to make the ballot for Governor has grown 
 
 [Nominate Robert Weber for Governor of Arizona](https://apps.azsos.gov/apps/election/eps/petition/VoterPetnAuth.aspx){:target="_blank"}
 
-#### The Code: Nominate Robert Weber for Governor of Arizona
+#### The Code B
+
+What? Nominate Robert Weber for Governor of Arizona
 
 ```liquid
 {% raw %}
@@ -76,30 +86,18 @@ More to come ... Short statement of critique
 
 #### Live Link: New Title
 
-1. **Source**: [New Title by Author](http://mminail.github.io). Published by © 2017 [Mminail.github.io](http://mminail.github.io){:target="_blank"}.
+More to come ...
 
-#### The Code: New Title
+## Last Subtitle
 
-```liquid
-{% raw %}
-[New Title by Author](http://mminail.github.io). Published by © 2017 [Mminail.github.io](http://mminail.github.io){:target="_blank"}.
-{% endraw %}
-```
+More to come ...
 
 ***
 
-## Raw Code
+**Note**. The above synopsis was derived from an article written by Blank Author [[1](#BLANKAUTHOR){:.red}].
 
-Place the introducing line of text ie.) the 'tagline' here ...
-
-```liquid
-{% raw %}
-`...`
-{% endraw %}
-```
-
-**Note**. Please support the authors and publishers who aggregate the **Source Links** for our projects.
+1. {:#BLANKAUTHOR}[A Narrative of Psychology by Blank Author, Jan #1999](http://cowles.yale.edu/sites/default/files/files/pub/d20/d2069.pdf){:title="Click to Visit the pdf source"}{:target="_blank"}
 
 ***
 
-**Ping-back**: [Political Lessons Project: Source Links](https://rwebaz.github.io/Political-Lessons-Project/pages/Source-Links.html){:target="_blank"}. Published by © 2017 [Mminail.github.io](https://mminail.github.io/){:target="_blank"}.
+{% include patreon-link.md %}
